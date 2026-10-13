@@ -1,0 +1,26 @@
+Abra este projeto Remotion e NÃO renderize ainda.
+
+Objetivo: finalizar um Reel 9:16 do Plantel anunciando o Simulado Gratuito EEAR 2027, com estética de motion graphics profissional, dinâmica, premium e voltada para retenção em Instagram Reels.
+
+1. Verifique todos os arquivos e assets.
+2. Rode npm install se necessário.
+3. Abra o Remotion Studio.
+4. Valide se a composição SimuladoEEAR carrega sem erros.
+5. Não altere a identidade principal sem necessidade.
+6. Não renderize ainda.
+7. Relate qualquer asset faltante ou problema.
+
+A edição deve manter:
+- fundo EEAR na abertura;
+- zoom cinematográfico no avião;
+- escurecimento progressivo;
+- frase “JÁ SONHOU EM ESTAR AQUI?”;
+- motion graphics com questões;
+- apresentação do Simulado Gratuito;
+- benefícios;
+- trecho emocional;
+- CTA final;
+- narração;
+- legendas dinâmicas sincronizadas.
+
+Depois que o Studio estiver funcionando, aguarde minhas instruções para revisão visual e correções cirúrgicas.

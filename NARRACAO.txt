@@ -1,0 +1,14 @@
+NARRAÇÃO SUGERIDA — 30s
+
+Já sonhou em estar aqui?
+Então você precisa saber se está realmente preparado.
+O Plantel preparou um simulado gratuito para colocar sua preparação à prova.
+Questões atualizadas, nível de prova e gabarito para você identificar onde precisa melhorar.
+A aprovação começa muito antes do dia da prova.
+Faça agora o Simulado Gratuito Plantel. Acesse pelo link.
+
+IMPORTANTE:
+- Grave em ritmo firme, motivacional, sem correr.
+- Substitua public/audio/narracao.wav pelo arquivo final mantendo o mesmo nome.
+- As legendas já estão cronometradas para 30s em src/data/captions.js.
+- Se sua narração ficar mais longa ou mais curta, o Codex deve ajustar os timestamps das legendas e das cenas.
